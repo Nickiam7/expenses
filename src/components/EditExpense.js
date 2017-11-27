@@ -1,12 +1,5 @@
 import React from 'react';
 
-// const EditExpensePage = () => (
-//     <div>
-//         <h2>Edit!</h2>
-//         Edit this expense
-//     </div>
-// );
-
 const EditExpensePage = (props) => {
     console.log(props);
     return(
