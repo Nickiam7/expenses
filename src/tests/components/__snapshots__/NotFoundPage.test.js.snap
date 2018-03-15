@@ -1,16 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should render NotFound component 1`] = `
+exports[`should render NotFoundPage correctly 1`] = `
 <div>
-  <h2>
-    404
-  </h2>
-  Nothing here! -- Go 
+  404 - 
   <Link
     replace={false}
     to="/"
   >
-    Home
+    Go home
   </Link>
 </div>
 `;
